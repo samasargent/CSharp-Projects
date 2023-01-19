@@ -1,0 +1,8 @@
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\WelcomePage\bin\Debug\WelcomePage.exe.config
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\WelcomePage\bin\Debug\WelcomePage.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\WelcomePage\bin\Debug\WelcomePage.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\WelcomePage\obj\Debug\WelcomePage.csproj.AssemblyReference.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\WelcomePage\obj\Debug\WelcomePage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\WelcomePage\obj\Debug\WelcomePage.csproj.CoreCompileInputs.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\WelcomePage\obj\Debug\WelcomePage.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\WelcomePage\obj\Debug\WelcomePage.pdb
