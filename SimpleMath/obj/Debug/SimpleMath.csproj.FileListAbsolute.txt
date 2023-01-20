@@ -1,0 +1,8 @@
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\SimpleMath\obj\Debug\SimpleMath.csproj.AssemblyReference.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\SimpleMath\obj\Debug\SimpleMath.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\SimpleMath\obj\Debug\SimpleMath.csproj.CoreCompileInputs.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\SimpleMath\bin\Debug\SimpleMath.exe.config
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\SimpleMath\bin\Debug\SimpleMath.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\SimpleMath\bin\Debug\SimpleMath.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\SimpleMath\obj\Debug\SimpleMath.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\SimpleMath\obj\Debug\SimpleMath.pdb
