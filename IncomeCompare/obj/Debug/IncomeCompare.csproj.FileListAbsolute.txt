@@ -1,0 +1,8 @@
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\IncomeCompare\bin\Debug\IncomeCompare.exe.config
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\IncomeCompare\bin\Debug\IncomeCompare.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\IncomeCompare\bin\Debug\IncomeCompare.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\IncomeCompare\obj\Debug\IncomeCompare.csproj.AssemblyReference.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\IncomeCompare\obj\Debug\IncomeCompare.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\IncomeCompare\obj\Debug\IncomeCompare.csproj.CoreCompileInputs.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\IncomeCompare\obj\Debug\IncomeCompare.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\IncomeCompare\obj\Debug\IncomeCompare.pdb
