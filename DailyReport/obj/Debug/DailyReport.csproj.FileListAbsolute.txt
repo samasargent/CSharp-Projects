@@ -1,0 +1,8 @@
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\DailyReport\obj\Debug\DailyReport.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\DailyReport\obj\Debug\DailyReport.pdb
