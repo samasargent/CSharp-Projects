@@ -5,21 +5,24 @@ namespace CallingMethods
     public class Maths
     {
         // Method that takes user input number and multiplies by 2
-        public static void MultiplyBy2(int userNum)
+        public static int MultiplyBy2(int userNum)
         {
-            Console.WriteLine(userNum * 2);
+            int product = userNum * 2;
+            return product;
         }
 
         // Method that takes user input number and adds 20
-        public static void Add20(int userNum)
+        public static int Add20(int userNum)
         {
-            Console.WriteLine(userNum + 20);
+            int sum = userNum + 20;
+            return sum;
         }
 
         // Method that takes user input number and divides by 3
-        public static void DivideBy3(int userNum)
+        public static int DivideBy3(int userNum)
         {
-            Console.WriteLine(userNum / 3);
+            int quotient = userNum / 3;
+            return quotient;
         }
     }
 }
