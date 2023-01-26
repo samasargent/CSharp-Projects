@@ -4,7 +4,7 @@ namespace MainMethod
 {
     public class MathOp
     {
-        public static int DoMath(int userInt)
+        public int DoMath(int userInt)
         {
             // Method takes user input number (as an integer)
             // Multiplies it 10
@@ -13,7 +13,7 @@ namespace MainMethod
             return product;
         }
 
-        public static int DoMath(decimal userDecimal)
+        public int DoMath(decimal userDecimal)
         {
             // Method takes user input number (as a decimal)
             // Adds 20 to it
@@ -24,7 +24,7 @@ namespace MainMethod
             return sumInt;
         }
 
-        public static int DoMath(string userStrNum)
+        public int DoMath(string userStrNum)
         {
             // Method takes user input number (as a string)
             // Converts the string to an integer (if possible)
