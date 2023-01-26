@@ -1,0 +1,8 @@
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MainMethod\bin\Debug\MainMethod.exe.config
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MainMethod\bin\Debug\MainMethod.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MainMethod\bin\Debug\MainMethod.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MainMethod\obj\Debug\MainMethod.csproj.AssemblyReference.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MainMethod\obj\Debug\MainMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MainMethod\obj\Debug\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MainMethod\obj\Debug\MainMethod.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MainMethod\obj\Debug\MainMethod.pdb
