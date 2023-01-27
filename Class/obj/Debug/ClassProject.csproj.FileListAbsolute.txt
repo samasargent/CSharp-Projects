@@ -1,0 +1,8 @@
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Class\bin\Debug\Class.exe.config
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Class\bin\Debug\Class.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Class\bin\Debug\Class.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Class\obj\Debug\ClassProject.csproj.AssemblyReference.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Class\obj\Debug\ClassProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Class\obj\Debug\ClassProject.csproj.CoreCompileInputs.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Class\obj\Debug\Class.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Class\obj\Debug\Class.pdb
