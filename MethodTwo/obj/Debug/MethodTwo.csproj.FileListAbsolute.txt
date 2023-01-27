@@ -1,0 +1,8 @@
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MethodTwo\obj\Debug\MethodTwo.csproj.AssemblyReference.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MethodTwo\obj\Debug\MethodTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MethodTwo\obj\Debug\MethodTwo.csproj.CoreCompileInputs.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MethodTwo\bin\Debug\MethodTwo.exe.config
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MethodTwo\bin\Debug\MethodTwo.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MethodTwo\bin\Debug\MethodTwo.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MethodTwo\obj\Debug\MethodTwo.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\MethodTwo\obj\Debug\MethodTwo.pdb
