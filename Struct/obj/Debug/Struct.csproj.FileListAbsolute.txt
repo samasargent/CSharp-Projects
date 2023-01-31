@@ -1,0 +1,8 @@
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Struct\bin\Debug\Struct.exe.config
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Struct\bin\Debug\Struct.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Struct\bin\Debug\Struct.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Struct\obj\Debug\Struct.csproj.AssemblyReference.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Struct\obj\Debug\Struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Struct\obj\Debug\Struct.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Struct\obj\Debug\Struct.pdb
