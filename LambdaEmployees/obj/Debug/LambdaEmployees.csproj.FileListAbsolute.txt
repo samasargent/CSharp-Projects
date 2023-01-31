@@ -1,0 +1,8 @@
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\LambdaEmployees\obj\Debug\LambdaEmployees.csproj.AssemblyReference.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\LambdaEmployees\obj\Debug\LambdaEmployees.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\LambdaEmployees\obj\Debug\LambdaEmployees.csproj.CoreCompileInputs.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\LambdaEmployees\bin\Debug\LambdaEmployees.exe.config
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\LambdaEmployees\bin\Debug\LambdaEmployees.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\LambdaEmployees\bin\Debug\LambdaEmployees.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\LambdaEmployees\obj\Debug\LambdaEmployees.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\LambdaEmployees\obj\Debug\LambdaEmployees.pdb
