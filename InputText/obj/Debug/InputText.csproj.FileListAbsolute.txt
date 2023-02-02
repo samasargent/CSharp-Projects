@@ -1,0 +1,8 @@
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\InputText\bin\Debug\InputText.exe.config
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\InputText\bin\Debug\InputText.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\InputText\bin\Debug\InputText.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\InputText\obj\Debug\InputText.csproj.AssemblyReference.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\InputText\obj\Debug\InputText.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\InputText\obj\Debug\InputText.csproj.CoreCompileInputs.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\InputText\obj\Debug\InputText.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\InputText\obj\Debug\InputText.pdb
