@@ -1,0 +1,8 @@
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\whatTime\bin\Debug\whatTime.exe.config
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\whatTime\bin\Debug\whatTime.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\whatTime\bin\Debug\whatTime.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\whatTime\obj\Debug\whatTime.csproj.AssemblyReference.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\whatTime\obj\Debug\whatTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\whatTime\obj\Debug\whatTime.csproj.CoreCompileInputs.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\whatTime\obj\Debug\whatTime.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\whatTime\obj\Debug\whatTime.pdb
