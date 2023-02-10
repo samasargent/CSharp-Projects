@@ -1,0 +1,6 @@
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Casino\bin\Debug\Casino.dll
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Casino\bin\Debug\Casino.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Casino\obj\Debug\Casino.dll
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\Casino\obj\Debug\Casino.pdb

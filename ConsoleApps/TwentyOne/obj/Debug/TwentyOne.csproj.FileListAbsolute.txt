@@ -1,0 +1,11 @@
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\TwentyOne\obj\Debug\TwentyOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\Samantha Sargent\Documents\GitHub\CSharp-Projects\TwentyOne\bin\Debug\Casino.dll
