@@ -1,5 +1,5 @@
 # C# Projects
-This repository contains C# projects from the bootcamp I am doing with the Tech Academy.
+This repository contains C# projects from the bootcamp I completed with the Tech Academy.
 
 ## Projects
 * [Car Insurance](https://github.com/samasargent/CSharp-Projects/tree/main/CarInsurance)
